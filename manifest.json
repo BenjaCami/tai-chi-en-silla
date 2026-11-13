@@ -1,0 +1,24 @@
+{
+ "name": "Tai Chi en Silla",
+ "short_name": "Tai Chi",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f6f3ee",
+ "theme_color": "#2b7fa1",
+ "lang": "es-CL",
+ "description": "Ejercicios suaves de Tai Chi para hacer sentado, paso a paso.",
+ "icons": [
+  {
+   "src": "icono-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
